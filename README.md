@@ -1,8 +1,8 @@
 ![Hi There](https://github.com/mikeblochlevermore/mikeblochlevermore/blob/main/header.gif?raw=true)
 
-🙌 Harvard X Certificate in Web Design (CS50W)
-👤 Meta Frontend Developer Certification
-🧑‍💻 CS50x Certificate in Computer Science
+- 🙌 Harvard X Certificate in Web Design (CS50W)
+- 👤 Meta Frontend Developer Certification
+- 🧑‍💻 CS50x Certificate in Computer Science
 
 <!--
 **mikeblochlevermore/mikeblochlevermore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
