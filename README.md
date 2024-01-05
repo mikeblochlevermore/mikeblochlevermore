@@ -5,22 +5,16 @@
 - 🧑‍💻 [CS50x](https://certificates.cs50.io/16434f73-af35-473e-91ba-ce92a311aee9.pdf?size=letter) Certificate in Computer Science
 - 🙋 Background in Education -> [LinkedIn](https://www.linkedin.com/in/mike-bloch-levermore/)
 
+# Latest Projects:
 
-### See project videos under my repositories:
-
-
-
-<!--
-**mikeblochlevermore/mikeblochlevermore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/mikeblochlevermore/setcourse" target="_blank">
+    <img src="https://github.com/mikeblochlevermore/setcourse/blob/master/setcourse/static/setcourse/youtube_thumb.png?raw=true">
+  </a>
+    <a href="https://github.com/mikeblochlevermore/kudos" target="_blank">
+    <img src="https://github.com/mikeblochlevermore/kudos/blob/master/network/static/network/youtube.png?raw=true"/>
+  </a>
+  <a href="https://github.com/mikeblochlevermore/auction" target="_blank">
+    <img src="https://github.com/mikeblochlevermore/auction/blob/master/auctions/static/auctions/youtube_thumb.png?raw=true"/>
+  </a>
+</div>  
