@@ -20,4 +20,11 @@
   <a href="https://github.com/mikeblochlevermore/auction" target="_blank">
     <img src="https://github.com/mikeblochlevermore/auction/blob/master/auctions/static/auctions/dba_cover.png?raw=true" height="150px">
   </a>
+  <a href="https://github.com/mikeblochlevermore/wiki" target="_blank">
+    <img src="https://github.com/mikeblochlevermore/wiki/blob/master/encyclopedia/static/encyclopedia/wiki_cover.png?raw=true" height="150px">
+  </a>
+  <a href="https://github.com/mikeblochlevermore/variableheating" target="_blank">
+    <img src="https://github.com/mikeblochlevermore/variableheating/blob/main/cover.png?raw=true" height="150px">
+  </a>
 </div>  
+
