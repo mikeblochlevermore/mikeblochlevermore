@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hi There](https://github.com/mikeblochlevermore/mikeblochlevermore/blob/master/header.gif?raw=true)
 
 <!--
 **mikeblochlevermore/mikeblochlevermore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
