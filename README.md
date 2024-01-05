@@ -1,8 +1,14 @@
 ![Hi There](https://github.com/mikeblochlevermore/mikeblochlevermore/blob/main/header.gif?raw=true)
 
-- 🙌 Harvard X Certificate in Web Design (CS50W)
-- 👤 Meta Frontend Developer Certification
-- 🧑‍💻 CS50x Certificate in Computer Science
+- 🙌 HarvardX Certificate in Web Design, CS50W
+- 👤 [Meta](https://www.linkedin.com/in/mike-bloch-levermore/](https://www.coursera.org/account/accomplishments/professional-cert/S3K38T4NGY75)) 7-Month Frontend Developer Certification
+- 🧑‍💻 [CS50x](https://certificates.cs50.io/16434f73-af35-473e-91ba-ce92a311aee9.pdf?size=letter) Certificate in Computer Science
+- 🙋 Background in Education -> [LinkedIn](https://www.linkedin.com/in/mike-bloch-levermore/)
+
+
+### See project videos under my repositories:
+
+
 
 <!--
 **mikeblochlevermore/mikeblochlevermore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
