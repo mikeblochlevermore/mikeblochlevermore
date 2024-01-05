@@ -9,12 +9,15 @@
 
 <div>
   <a href="https://github.com/mikeblochlevermore/setcourse" target="_blank">
-    <img src="https://github.com/mikeblochlevermore/setcourse/blob/master/setcourse/static/setcourse/youtube_thumb.png?raw=true">
+    <img src="https://github.com/mikeblochlevermore/setcourse/blob/master/setcourse/static/setcourse/youtube_alt.png?raw=true" height="150px">
   </a>
     <a href="https://github.com/mikeblochlevermore/kudos" target="_blank">
-    <img src="https://github.com/mikeblochlevermore/kudos/blob/master/network/static/network/youtube.png?raw=true"/>
+    <img src="https://github.com/mikeblochlevermore/kudos/blob/master/network/static/network/banner.png?raw=true" height="150px">
+  </a>
+  <a href="https://github.com/mikeblochlevermore/howler" target="_blank">
+    <img src="https://github.com/mikeblochlevermore/howler/blob/master/mail/static/mail/howler_cover.png?raw=true" height="150px">
   </a>
   <a href="https://github.com/mikeblochlevermore/auction" target="_blank">
-    <img src="https://github.com/mikeblochlevermore/auction/blob/master/auctions/static/auctions/youtube_thumb.png?raw=true"/>
+    <img src="https://github.com/mikeblochlevermore/auction/blob/master/auctions/static/auctions/dba_cover.png?raw=true" height="150px">
   </a>
 </div>  
